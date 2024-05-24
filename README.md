@@ -1,103 +1,47 @@
-## Hi there 👋
+An enthusiastic Learner and App Developer
+-----------------------------------------
 
-**Its-Aki/its-Aki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 🌍  I'm based in India.
+* 🖥️  See my portfolio at [Portfolio.](http://example)
+* ✉️  You can contact me at [rahulkumarrr284@gmail.com](mailto:rahulkumarrr284@gmail.com)
+* 🧠  I'm learning App Development.
+* 🤝  I'm open to collaborating on App Development.
+* ⚡  i'm a night owl.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+<a href="https://www.github.com/Its-Aki" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Its-Aki?logo=github&style=for-the-badge&color=0891b2&labelColor=713f12" /></a>
+### Skills
 
-<details open>
-<summary>My top languages</summary>
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>			<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>			<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>			<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>			<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a>			<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>			<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>			<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| JavaScript|
-|     2| Python    |
-|     3| SQL       |
+### Socials
 
-</details>
+<p align="left"> <a href="https://www.github.com/Its-Aki" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
----
-> If we pull together and commit ourselves, then we can push through anything.
+### Badges
 
-— Mona the Octocat
+<b>My GitHub Stats</b>
 
-# A first-level heading
-## A second-level heading
-### A third-level heading
+<a href="http://www.github.com/Its-Aki"><img src="https://github-readme-stats.vercel.app/api?username=Its-Aki&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=E24462&hide_border=true&show_icons=true" alt="Its-Aki's GitHub stats" /></a>
 
-**bold**
+<a href="http://www.github.com/Its-Aki"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Its-Aki&stroke=000000&background=E24462&ring=0891b2&fire=0891b2&currStreakNum=000000&currStreakLabel=0891b2&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
-*italic*
-~~strikethrough~~
-log100<sub>10</sub><sup>2<sup/>
+![GitHub Commits Graph](https://github-readme-activity-graph.vercel.app/graph?username=Its-Aki&bg_color=E24462&color=000000&line=0891b2&point=000000&area_color=713f12&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
 
-Text that is not a quote
+<a href="https://github.com/Its-Aki" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Its-Aki&langs_count=10&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=E24462&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-> Text that is a quote
+<b>Top Repositories</b>
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+<div width="100%" align="center"><a href="https://github.com/Its-Aki/Tip-Claculator-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Its-Aki&repo=Tip-Claculator-App&title_color=0891b2&text_color=000000&icon_color=0891b2&bg_color=E24462&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-This site was built using [GitHub Pages](https://pages.github.com/)
+### Support Me
 
-`git status`
+<ul style="list-style-type: none; margin: 0;">
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/xx"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
-- George Washington
-* John Adams
-+ Thomas Jefferson
-1. James Madison
-2. James Monroe
-3. John Quincy Adams
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/xx"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
-
- Here is a simple footnote[^1].
-
-A footnote can also have multiple lines[^2].
-
-[^1]: My reference.
-[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
-  This is a second line.
-
-
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
-Here are some ideas to get you started:
-
-```cpp
-// Your First C++ Program
-
-#include <iostream>
-
-int main() {
-    std::cout << "Hello World!";
-    return 0;
-}
-```
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</ul>
